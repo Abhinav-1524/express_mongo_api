@@ -1,0 +1,21 @@
+{
+  "name": "express_mongo_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav-1524/express_mongo_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhinav-1524/express_mongo_api/issues"
+  },
+  "homepage": "https://github.com/Abhinav-1524/express_mongo_api#readme"
+}
